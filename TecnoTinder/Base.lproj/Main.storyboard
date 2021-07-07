@@ -17,7 +17,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" alpha="0.60000002384185791" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="background" translatesAutoresizingMaskIntoConstraints="NO" id="p2w-kF-4tc">
-                                <rect key="frame" x="0.0" y="-21" width="440" height="935"/>
+                                <rect key="frame" x="0.0" y="-21" width="459" height="956"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="12" translatesAutoresizingMaskIntoConstraints="NO" id="eye-ga-FyA">
@@ -132,7 +132,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="uf3-fw-yYf" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="194" y="154"/>
+            <point key="canvasLocation" x="193.45794392523362" y="153.56371490280779"/>
         </scene>
     </scenes>
     <resources>
