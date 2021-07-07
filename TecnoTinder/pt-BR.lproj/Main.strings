@@ -1,0 +1,21 @@
+
+/* Class = "UITextField"; placeholder = "Senha"; ObjectID = "NPq-aW-GRf"; */
+"NPq-aW-GRf.placeholder" = "Senha";
+
+/* Class = "UIButton"; normalTitle = "Entre com e-mail"; ObjectID = "QSk-7T-736"; */
+"QSk-7T-736.normalTitle" = "Entre com e-mail";
+
+/* Class = "UILabel"; text = "Networking que muda a sua vida."; ObjectID = "W9T-gT-6BG"; */
+"W9T-gT-6BG.text" = "Networking que muda a sua vida.";
+
+/* Class = "UILabel"; text = "TECNOTinder"; ObjectID = "c6O-fI-NIj"; */
+"c6O-fI-NIj.text" = "TECNOTinder";
+
+/* Class = "UILabel"; text = "Todos os direitos reservados"; ObjectID = "g6j-zG-zhY"; */
+"g6j-zG-zhY.text" = "Todos os direitos reservados";
+
+/* Class = "UIButton"; normalTitle = " Entre com a Apple"; ObjectID = "hba-sL-5dV"; */
+"hba-sL-5dV.normalTitle" = " Entre com a Apple";
+
+/* Class = "UITextField"; placeholder = "E-mail"; ObjectID = "lZ5-Xt-nOy"; */
+"lZ5-Xt-nOy.placeholder" = "E-mail";

@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  TecnoTinder
+
+  Created by Nicolas Godoy on 07/07/21.
+  
+*/
+
+"titleAppDescription" = "TECNOTinder";
+"labelAppDescription" = "Networking que muda a sua vida";
+"emailLabel" = "E-mail";
+"passwordLabel" = "Senha";
+"loginEmailLabel" = "Entre com e-mail";
+"loginAppleLabel" = "Entre com a Apple";
+"copyrightLabel" = "Todos os direitos reservados";
+
+"insertEmail" = "Insira o seu email!";
+"insertPassword" = "Insira a sua senha!";
+"loggedSuccessfully" = "Logado com sucesso!";
+"loggedApple" = "Logado da melhor forma possível!";
